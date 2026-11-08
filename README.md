@@ -3,7 +3,7 @@
   <a href="https://www.deepseek.com/"><img src="deepseek.svg" width="52" height="52" alt="DeepSeek" title="DeepSeek"></a>
   <a href="https://www.kimi.com/"><img src="moonshot.png" width="52" height="52" alt="Moonshot / Kimi" title="Moonshot / Kimi"></a>
   <a href="https://omp.sh"><img src="omp.svg" width="52" height="52" alt="oh-my-pi" title="oh-my-pi"></a>
-  <a href="https://stencil.so/tern"><img src="tern.svg" width="52" height="52" alt="Tern" title="Tern"></a>
+  <a href="https://stencil.so/tern"><img src="tern.svg?theme=dark" width="52" height="52" alt="Tern" title="Tern"></a>
   <a href="https://stencil.so"><img src="stencil.svg" width="52" height="52" alt="Stencil Labs" title="Stencil Labs"></a>
 </p>
 
