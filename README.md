@@ -1,14 +1,21 @@
+<p>
+  <a href="https://claude.com/product/claude-code"><img src="claude.svg" width="52" height="52" alt="Claude Code" title="Claude Code"></a>
+  <a href="https://www.deepseek.com/"><img src="deepseek.svg" width="52" height="52" alt="DeepSeek" title="DeepSeek"></a>
+  <a href="https://www.kimi.com/"><img src="moonshot.png" width="52" height="52" alt="Moonshot / Kimi" title="Moonshot / Kimi"></a>
+  <a href="https://omp.sh"><img src="omp.svg" width="52" height="52" alt="oh-my-pi" title="oh-my-pi"></a>
+  <a href="https://stencil.so/tern"><img src="tern.svg" width="52" height="52" alt="Tern" title="Tern"></a>
+  <a href="https://stencil.so"><img src="stencil.svg" width="52" height="52" alt="Stencil Labs" title="Stencil Labs"></a>
+</p>
+
 # Vortex
 
 Local AI, reverse engineering, and giving perfectly good hardware unreasonable things to do.
 
-## Highly questionable skillset
+## Stuff I use
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/product/claude-code) [![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)](https://www.deepseek.com/) [![Moonshot / Kimi](https://img.shields.io/badge/☾_Moonshot_·_Kimi-18181B?style=for-the-badge)](https://www.moonshot.ai/)
+Mostly knowing which AI to bother next.
 
-I supervise the entities that allegedly understand the code. They supervise my confidence.
-
-<a href="https://omp.sh"><img src="omp.svg" width="44" height="44" alt="oh-my-pi"></a> <a href="https://stencil.so/tern"><img src="tern.svg" width="44" height="44" alt="Tern"></a> <a href="https://stencil.so"><img src="stencil.svg" width="44" height="44" alt="Stencil Labs"></a>
+**Claude Code · DeepSeek · Moonshot / Kimi**
 
 **[oh-my-pi](https://omp.sh) + [Tern](https://stencil.so/tern), both by [Stencil Labs](https://stencil.so).** The tools doing the heavy lifting while I develop increasingly specific opinions.
 
