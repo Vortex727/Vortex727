@@ -2,6 +2,7 @@
   <a href="https://claude.com/product/claude-code"><img src="https://raw.githubusercontent.com/Vortex727/Vortex727/1323fb3791f1841c75e537b37cfab90afe5a0e1c/claude.svg" width="52" height="52" alt="Claude Code" title="Claude Code"></a>
   <a href="https://www.deepseek.com/"><img src="https://raw.githubusercontent.com/Vortex727/Vortex727/1323fb3791f1841c75e537b37cfab90afe5a0e1c/deepseek.svg" width="52" height="52" alt="DeepSeek" title="DeepSeek"></a>
   <a href="https://www.kimi.com/"><img src="moonshot.png" width="52" height="52" alt="Moonshot / Kimi" title="Moonshot / Kimi"></a>
+  <a href="https://z.ai/"><img src="https://z-cdn.chatglm.cn/z-ai/static/logo.svg" width="52" height="52" alt="GLM 5.3" title="GLM 5.3 · Z.ai"></a>
   <a href="https://omp.sh"><img src="omp.svg" width="52" height="52" alt="oh-my-pi" title="oh-my-pi"></a>
   <a href="https://stencil.so/tern"><img src="https://raw.githubusercontent.com/Vortex727/Vortex727/1323fb3791f1841c75e537b37cfab90afe5a0e1c/tern.svg" width="52" height="52" alt="Tern" title="Tern"></a>
   <a href="https://stencil.so"><img src="stencil.svg" width="52" height="52" alt="Stencil Labs" title="Stencil Labs"></a>
@@ -15,7 +16,7 @@ Local AI, reverse engineering, and giving perfectly good hardware unreasonable t
 
 Mostly knowing which AI to bother next.
 
-**Claude Code · DeepSeek · Moonshot / Kimi**
+**Claude Code · DeepSeek · Moonshot / Kimi · GLM 5.3**
 
 **[oh-my-pi](https://omp.sh) + [Tern](https://stencil.so/tern), both by [Stencil Labs](https://stencil.so).** The tools doing the heavy lifting while I develop increasingly specific opinions.
 
