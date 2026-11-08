@@ -18,7 +18,8 @@ Knowing which AI to bother next, what tools to use.
 
 **Claude Code · DeepSeek · Moonshot / Kimi · GLM 5.3**
 
-**[oh-my-pi](https://omp.sh) + [Tern](https://stencil.so/tern), both by [Stencil Labs](https://stencil.so).** The tools doing the heavy lifting,  while I .
+**[oh-my-pi](https://omp.sh) + [Tern](https://stencil.so/tern), both by [Stencil Labs](https://stencil.so).** 
+The tools doing the heavy lifting,  while I keep moving the goal post.
 
 ## What I'm exploring
 
