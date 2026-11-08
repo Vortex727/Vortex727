@@ -12,7 +12,7 @@
 
 Local AI, reverse engineering, and giving perfectly good hardware unreasonable things to do.
 
-## My skillset runs on tokens
+## My skillset runs on tokens. My patience runs on coffee.
 
 Mostly knowing which AI to bother next.
 
