@@ -1,3 +1,5 @@
+## My skillset runs on tokens. My patience runs on coffee.
+
 <p>
   <a href="https://claude.com/product/claude-code"><img src="https://raw.githubusercontent.com/Vortex727/Vortex727/1323fb3791f1841c75e537b37cfab90afe5a0e1c/claude.svg" width="52" height="52" alt="Claude Code" title="Claude Code"></a>
   <a href="https://www.deepseek.com/"><img src="https://raw.githubusercontent.com/Vortex727/Vortex727/1323fb3791f1841c75e537b37cfab90afe5a0e1c/deepseek.svg" width="52" height="52" alt="DeepSeek" title="DeepSeek"></a>
@@ -11,8 +13,6 @@
 # Vortex
 
 Local AI, reverse engineering, and giving perfectly good hardware unreasonable things to do.
-
-## My skillset runs on tokens. My patience runs on coffee.
 
 Mostly knowing which AI to bother next.
 
