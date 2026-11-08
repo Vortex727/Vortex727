@@ -12,20 +12,22 @@
 
 # Vortex
 
-Local AI, reverse engineering, and giving perfectly good hardware unreasonable things to do.
+Local AI, reverse engineering, burning tokens on unreasonable things.
 
-Mostly knowing which AI to bother next.
+Knowing which AI to bother next, what tools to use.
 
 **Claude Code · DeepSeek · Moonshot / Kimi · GLM 5.3**
 
-**[oh-my-pi](https://omp.sh) + [Tern](https://stencil.so/tern), both by [Stencil Labs](https://stencil.so).** The tools doing the heavy lifting while I develop increasingly specific opinions.
+**[oh-my-pi](https://omp.sh) + [Tern](https://stencil.so/tern), both by [Stencil Labs](https://stencil.so).** The tools doing the heavy lifting,  while I .
 
 ## What I'm exploring
 
 - **Local AI** — running models on my own hardware, experimenting with abliterated models, and finding out how much memory “enough” actually means.
-- **Reverse engineering** — following behavior back to its cause. The documentation is sometimes a crash.
-- **Automation** — turning repetitive work into scripts, tools, and agent workflows. Occasionally automating a mistake at impressive speed.
-- **Self-improving pipelines** — every investigation leaves behind better notes, diagnostics, and checks. Find the cause → prove the fix → write it down → improve the next run.
+- **Reverse engineering** — following behavior back to its cause.
+- **Automation** — turning repetitive work into scripts, tools, and self improving agent workflows.
+- Supervising, rules, benchmarks.
+- **Self-improving pipelines** — every investigation leaves behind better notes, diagnostics, and checks.
+- Find the cause → prove the fix → write it down → improve the next run → benchmark.
 
 ## My coworker
 
@@ -33,8 +35,10 @@ Mostly knowing which AI to bother next.
 
 Never asks for a raise. Makes its feelings known through the electricity bill.
 
+
 ## Currently: FUKKO
 
-A hybrid Switch 2 emulator project, built on Eglantine and Eden. Developers sometimes discover they contributed by reading the credits. [See what we're building →](https://fukko.dev)
+A hybrid NVN Switch 2 emulator project, built on Eglantine and Eden. 
+[See what we're building →](https://fukko.dev)
 
-**Find me:** [Telegram · @CloudRises](https://t.me/CloudRises) · Discord: **vortex_vtx**
+**Find me:** [Telegram · @CloudRises](https://t.me/CloudRises) · Discord: **Vortex_vtx**
